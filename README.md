@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-commerce Sales Analysis
 
 ## 📌 Project Overview
@@ -45,3 +46,7 @@ ecommerce-analysis/
 
 ## ✅ Conclusion
 This project demonstrates practical data analysis skills including data cleaning, visualization, and extracting meaningful business insights.
+=======
+# ecommerce-analysis
+E-commerce Sales Analysis project using Python, Pandas, NumPy, Matplotlib, and Seaborn. Features data cleaning, feature engineering, visualizations, and actionable insights on monthly trends, top products, and category-wise sales performance for portfolio showcase.
+>>>>>>> 44d2a7932a066d152ec72492403c9050082124d9
