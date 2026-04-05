@@ -1,0 +1,16 @@
+OrderID,Customer,Product,Category,Price,Quantity,Date,City
+1,Ali,Laptop,Electronics,800,1,2024-01-01,Lahore
+2,Ahmed,Mobile,Electronics,500,2,2024-01-05,Karachi
+3,Sara,Shoes,Fashion,80,3,2024-01-10,Islamabad
+4,Usman,Headphones,Electronics,150,2,2024-01-12,Lahore
+5,Ayesha,Tablet,Electronics,300,1,2024-01-15,Karachi
+6,Ali,Laptop,Electronics,800,1,2024-02-01,Islamabad
+7,Sara,Shoes,Fashion,80,2,2024-02-05,Lahore
+8,Ahmed,Mobile,Electronics,500,1,2024-02-10,Karachi
+9,Usman,Tablet,Electronics,300,2,2024-02-12,Islamabad
+10,Ayesha,Headphones,Electronics,150,3,2024-02-15,Lahore
+11,Ali,Laptop,Electronics,800,1,2024-03-01,Karachi
+12,Ahmed,Mobile,Electronics,500,2,2024-03-05,Islamabad
+13,Sara,Shoes,Fashion,80,1,2024-03-10,Lahore
+14,Usman,Tablet,Electronics,300,1,2024-03-12,Karachi
+15,Ayesha,Headphones,Electronics,150,2,2024-03-15,Islamabad
